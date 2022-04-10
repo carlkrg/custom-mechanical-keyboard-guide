@@ -1,9 +1,9 @@
 # Mechanical-Unicorn
 
 ## Shops in Deutschland: 
-**[candykeys.com](https://candykeys.com/)**
-**[keygem.store](https://keygem.store/)**
-**[mykeyboard.eu](https://mykeyboard.eu/)**
+- **[candykeys.com](https://candykeys.com/)**
+- **[keygem.store](https://keygem.store/)**
+- **[mykeyboard.eu](https://mykeyboard.eu/)**
 
 
 ## Shops in China:
