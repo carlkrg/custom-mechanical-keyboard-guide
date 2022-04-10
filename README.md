@@ -1,4 +1,11 @@
-# Mechanical-Unicorn
+# Custom Mechanical Keyboard Guide
+
+## List of components:
+
+- Case
+- 
+
+
 
 ## Shops in Deutschland: 
 - **[candykeys.com](https://candykeys.com/)**
@@ -7,9 +14,9 @@
 
 
 ## Shops in China:
-**[EFF](https://eff.org)**
-https://kbdfans.com/
+**[kbdfans.com](https://kbdfans.com/)**
+
 
 ## Shops in der USA:
-**[EFF](https://eff.org)**
-https://drop.com/
+**[drop.com](https://drop.com/)**
+
