@@ -13,18 +13,18 @@
 ### Accessories: 
 - Case Foam
 
-## Shops
-### Shops in germany: 
+## Stores
+### Stores in germany: 
 - **[candykeys.com](https://candykeys.com/)**
 - **[keygem.store](https://keygem.store/)**
 - **[mykeyboard.eu](https://mykeyboard.eu/)**
 
 
-### Shops in china:
+### Stores in china:
 - **[kbdfans.com](https://kbdfans.com/)**
 
 
-### Shops in USA:
+### Stores in USA:
 - **[drop.com](https://drop.com/)**
 
 ### Barebone Keyboards: 
