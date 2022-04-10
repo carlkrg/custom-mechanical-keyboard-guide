@@ -2,9 +2,16 @@
 
 ## List of components:
 
+### Must have: 
 - Case
-- 
+- PCB
+- Plate
+- Keycaps 
+- Switches
+- Stabilizer
 
+### Accessories: 
+- Case Foam
 
 
 ## Shops in Deutschland: 
@@ -14,9 +21,14 @@
 
 
 ## Shops in China:
-**[kbdfans.com](https://kbdfans.com/)**
+- **[kbdfans.com](https://kbdfans.com/)**
 
 
 ## Shops in der USA:
-**[drop.com](https://drop.com/)**
+- **[drop.com](https://drop.com/)**
 
+## Barebone Keyboards: 
+- **[keychron.com](https://www.keychron.com/)**
+
+## Keycaps Group Buys
+- **[keycapsets.com](https://keycapsets.com/)**
