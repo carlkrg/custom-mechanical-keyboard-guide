@@ -48,3 +48,7 @@ Welcome to the Custom Mechanical Keyboard Guide! This guide provides an overview
 ### Subreddits and Forums
 - **[r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)**
 - **[geekhack.org](https://geekhack.org/)**
+
+## Firmware:
+- **[VIA - Your keyboard's best friend](https://www.caniusevia.com/)**
+- **[QMK Configurator (Advanced!)](https://config.qmk.fm/#/anavi/knobs3/LAYOUT)**
